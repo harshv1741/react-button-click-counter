@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.pageTitle {
+  background-color: black;
+  color: white;
+  border-radius: 10rem;
+}
+
+.btn {
+  background-color: blue;
+  color: white;
+  width: 20%;
+  height: 30px;
+  border-radius: 2rem;
+}
